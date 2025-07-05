@@ -16,7 +16,7 @@ The challenge is to build a responsive blog card component based on the provided
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-card-challenge.git
+   git clone https://github.com/konarssuresh/gfe-blog-card-tailwind
    ```
 2. Open `index.html` in your browser to view the blog card.
 
@@ -28,7 +28,7 @@ The challenge is to build a responsive blog card component based on the provided
 
 ## Hosted Link
 
-[Demo](LINK_PLACEHOLDER)
+[Demo](https://gfe-blog-card-tailwind.netlify.app/)
 
 ---
 
